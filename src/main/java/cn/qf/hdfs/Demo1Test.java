@@ -1,3 +1,4 @@
+package cn.qf.hdfs;
 
 import org.apache.commons.io.IOUtils;
 import org.apache.hadoop.fs.*;
